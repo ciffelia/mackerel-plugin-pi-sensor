@@ -4,6 +4,5 @@
 # Usage
 
 ```sh
-$ go get github.com/prince0203/mackerel-plugin-pi-sensor
+$ go get -u github.com/prince0203/mackerel-plugin-pi-sensor
 ```
-
